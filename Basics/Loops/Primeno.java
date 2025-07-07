@@ -24,3 +24,5 @@ public class Primeno {
     }
     
 }
+
+//Time complexity is O(rootN)
