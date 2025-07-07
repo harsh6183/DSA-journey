@@ -7,4 +7,6 @@ This repository is a daily log of problems I solve to master core DSA concepts a
 
 ## 🚀 Goal
 
-🎯 To solve at least **100+ curated DSA problems** 
+🎯 To solve at least **100+ curated DSA problems**
+
+Day 1 - Basics of Java and completed loops(2hrs)
