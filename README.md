@@ -16,6 +16,8 @@ Day 4 - Arrays questions
 Day 5 - Previous all question revision  
 Day 6 - Basics of Recursion  
 Day 7 - Recursion 2 problems  
+Day 8 - Recursion medium level question 2  
+Day 9 - Recursion medium level question
 
 
 
