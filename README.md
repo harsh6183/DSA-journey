@@ -13,6 +13,9 @@ Day 1 - Basics of Java and completed loops and few patterns(2hrs)
 Day 2 - Basics of Arrays and started with Array questions (4hrs)  
 Day 3 - Arrays question solving (2 hrs)  
 Day 4 - Arrays questions  
+Day 5 - Previous all question revision  
+
+
 
 
 
