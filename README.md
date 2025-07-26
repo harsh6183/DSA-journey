@@ -20,6 +20,7 @@ Day 8 - Recursion medium level question 2
 Day 9 - Recursion medium level question  
 Day 10- Problems 2  
 Day 11- Problems 2  
+Day 12- Problems 1
 
 
 
