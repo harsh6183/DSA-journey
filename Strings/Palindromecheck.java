@@ -10,9 +10,7 @@ class Solution {
             }
             while (i < j && !Character.isLetterOrDigit(s.charAt(j))) {
                 j--;
-            }
-
-            
+            }    
             char ch1 = Character.toLowerCase(s.charAt(i));
             char ch2 = Character.toLowerCase(s.charAt(j));
 
