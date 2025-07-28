@@ -8,6 +8,7 @@ public class Compression2 {
         Scanner scn = new Scanner(System.in);
         String str = scn.next();
         System.out.println(compression1(str));
+        System.out.println(compression2(str));
     }
 
     public static String compression1(String str) {
