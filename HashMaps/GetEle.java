@@ -1,11 +1,11 @@
-//Print the Comman Element of the given set
-//Input a1= [1,2,3,4,5,9] a2=[1,2,2,3,4,3,4,6,6]
-//Output =[1,2,3,4]
+//Print the Comman Element which has repeated of the given set
+//Input a1= [1,2,2,4,5,5,6,6,6] a2=[1,2,2,3,4,3,4,6,6]
+//Output =[2,2,6,6]
 
 import java.util.HashMap;
 import java.util.Scanner;
 
-public class GetCommanElement {
+public class GetEle {
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
 
@@ -34,9 +34,11 @@ public class GetCommanElement {
         // for arr2 now comparision
 
         for(int val:arr2){
-            if(freqmap.containsKey(val)){
+            if(freqmap.containsKey(val) && freqmap.get(val)>0){
                 System.out.println(val);
-                freqmap.remove(val);
+                 int of =freqmap.get(val); //old frequency
+                int nf = of-1;              //new frequency
+                freqmap.put(val,nf);
             }
         }
     }
