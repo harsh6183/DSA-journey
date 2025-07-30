@@ -1,5 +1,5 @@
-//In the Given array find the longest consecutives present
-//input =[274986930]  Longest Cons = [6789]
+//In the Given array find the longest consecutives present and return the output length
+//input =[274986930]  Longest Cons = [6789]  output lenght = 4
 
 import java.util.HashMap;
 import java.util.Scanner;
@@ -44,10 +44,23 @@ public class LongestCons {
                 }
             }
 
+            int [] length = new int[maxlength];
             for(int i =0; i<maxlength;i++){
-                System.out.println(mstartpoint+i);
+                length[i]= maxlength +i;
+                
             }
+
+            for (int num :length){
+                System.out.println(num+"");
+            }
+
+            System.out.println("Longest sequence length=>" +length.length);
         }
     }
 
 
+// for only getting longest consecutive just change the last loop and remove the last array made
+// for(int i =0; i<maxlength;i++){
+            //     system.out.println(maxlength +i)
+
+            // }
