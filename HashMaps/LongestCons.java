@@ -1,6 +1,8 @@
 //In the Given array find the longest consecutives present and return the output length
 //input =[274986930]  Longest Cons = [6789]  output lenght = 4
 
+//Leetcode que 128 done
+
 import java.util.HashMap;
 import java.util.Scanner;
 
