@@ -26,7 +26,7 @@ Day 18- Starting with Strings and String Builder
 Day 19- Strings questions  
 Day 20- Mix questions  
 Day 21- Started with HashMap basics  
-
+Day 22- Solved problem based on HashMap
 
 
 
