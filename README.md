@@ -24,7 +24,9 @@ Day 12- Problems 2
 Day 13- Problems 2  
 Day 18- Starting with Strings and String Builder  
 Day 19- Strings questions  
-Day 20- Mix questions
+Day 20- Mix questions  
+Day 21- Started with HashMap basics  
+
 
 
 
