@@ -22,10 +22,19 @@ Day 10- Problems 2
 Day 11- Problems 2  
 Day 12- Problems 2  
 Day 13- Problems 2  
+<<<<<<< HEAD
 Day 18- Starting with Strings and String Builder
 Day 19 - Solved 2 numericals
 Day 20 - 2 numericals
 Day 21 - Starting with HashMaps and Heaps
+=======
+Day 18- Starting with Strings and String Builder  
+Day 19- Strings questions  
+Day 20- Mix questions  
+Day 21- Started with HashMap basics  
+Day 22- Solved problem based on HashMap
+
+>>>>>>> 55a77962a9a6bd591e3c0945b127f74e498c9692
 
 
 
