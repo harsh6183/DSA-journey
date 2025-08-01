@@ -23,6 +23,10 @@ Day 11- Problems 2
 Day 12- Problems 2  
 Day 13- Problems 2  
 Day 18- Starting with Strings and String Builder
+Day 19 - Solved 2 numericals
+Day 20 - 2 numericals
+Day 21 - Starting with HashMaps and Heaps
+
 
 
 
