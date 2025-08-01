@@ -32,8 +32,9 @@ Day 18- Starting with Strings and String Builder
 Day 19- Strings questions  
 Day 20- Mix questions  
 Day 21- Started with HashMap basics  
-Day 22- Solved problem based on HashMap
-
+Day 22- Solved problem based on HashMap  
+Day 23 - HashMap problem  
+Day 24- Basics of java frequently asked questions
 >>>>>>> 55a77962a9a6bd591e3c0945b127f74e498c9692
 
 
