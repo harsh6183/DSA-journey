@@ -3,11 +3,15 @@
 
 import java.util.Arrays;
 import java.util.HashMap;
+import java.util.Scanner;
 
 public class TwoSum {
-    public static void main(String[] args) {
+    public static void main(String[] args) {    
         int [] nums = {2,3,4};
-        System.out.println(Arrays.toString(twoSum(nums, 7)));
+        System.out.println("Enter the Target Value => ");
+        Scanner scn = new Scanner(System.in);
+         int target = scn.nextInt();
+        System.out.println("Indexs of Target values are => "+Arrays.toString(twoSum(nums, target)));
     }
 
     public static int[] twoSum(int[] nums,int target ){
