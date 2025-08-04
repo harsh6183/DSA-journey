@@ -1,5 +1,11 @@
-class Solution {
-    public boolean isPalindrome(String s) {
+//Find the given string is palindrome or not
+//This is solved using two pointers approach
+public class Palindromecheck {
+    public static void main(String[] args) {
+        String s = ("MOM");
+        isPalindrome(s);
+    }
+    public static void isPalindrome(String s) {
         int i = 0;
         int j = s.length() - 1;
 
@@ -15,13 +21,13 @@ class Solution {
             char ch2 = Character.toLowerCase(s.charAt(j));
 
             if (ch1 != ch2) {
-                return false;
+                System.out.println("No palindrome");;
             }
 
             i++;
             j--;
         }
 
-        return true;
+        System.out.println("String is Palindrome");;
     }
 }
