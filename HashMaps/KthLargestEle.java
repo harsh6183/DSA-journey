@@ -1,6 +1,5 @@
 //Find the highest k elements means if k=3 then return highest 3 values from the given numbers.
 
-import java.util.Arrays;
 import java.util.PriorityQueue;
 
 public class KthLargestEle {
