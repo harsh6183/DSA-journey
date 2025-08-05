@@ -30,7 +30,8 @@ Day 18 - Solved problem based on HashMap
 Day 19 - HashMap problem  
 Day 20 - Basics of java frequently asked questions  
 Day 21 - Basics of java problems 
-Day 22 - HashMap problem solved   
+Day 22 - HashMap problem solved  
+Day 23 - 2D Arrays que solved    
 
 
 
