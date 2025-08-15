@@ -1,30 +1,35 @@
 
 import java.util.Stack;
-public class Histogram{
+
+public class Histogram {
     public static void main(String[] args) {
-        int[] heights = {2,3,5,6,4,3};
+        int[] heights = { 2, 3, 5, 6, 4, 3 };
         Histogram h = new Histogram();
-        int output= h.largestRectangleArea(heights);
-        System.out.println(("Area of Histogram is => "+output));
+        int output = h.largestRectangleArea(heights);
+        System.out.println(("Area of Histogram is => " + output));
     }
 
-    public int largestRectangleArea(int[] heights){
-        Stack <Integer> stack= new Stack<>();
+    public int largestRectangleArea(int[] heights) {
         int n = heights.length;
-        int max= Integer.MIN_VALUE;
-        for(int i =0 ; i<=n;i++){
-            int element = (i==n)?0:heights[i];
-            while(!stack.isEmpty()&& heights[stack.peek()]>element){
-                int h = heights[stack.pop()]; //height
-                int ps = (stack.isEmpty()?-1:stack.peek()); //previous smaller
-                int w = i-ps-1;  //width
-                max = Math.max(max, h*w);
+        Stack<Integer> stack = new Stack<>();
+        int maxArea = 0;
+
+        for (int i = 0; i <= n; i++) {
+            int currHeight = (i == n) ? 0 : heights[i];
+
+            while (!stack.isEmpty() && currHeight < heights[stack.peek()]) {
+                int height = heights[stack.pop()];
+                int width = stack.isEmpty() ? i : (i - stack.peek() - 1);
+                maxArea = Math.max(maxArea, height * width);
             }
+
             stack.push(i);
         }
-         return (max==Integer.MIN_VALUE)?0:max;
+
+        return maxArea;
+
     }
- 
+
 }
 
-//Time complexity = O(n)
+// Time complexity = O(n)
