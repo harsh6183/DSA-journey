@@ -38,11 +38,10 @@ Day 26 - Started with Stack and Queues
 Day 27 - Stacks ques  
 Day 28 - Question on Stack and Que Implementation  
 Day 29 - Stack and Que que  
-<<<<<<< HEAD
 Day 30 - Sliding Window Maximum que  
-=======
-Day 30 - Revision of past questions  
->>>>>>> 83d6fd09b6ebf27e1d454c25d6815427c880f6f1
+Day 31 - Revision of past questions  
+ 
+
 
 
   
