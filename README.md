@@ -40,7 +40,7 @@ Day 28 - Question on Stack and Que Implementation
 Day 29 - Stack and Que que  
 Day 30 - Sliding Window Maximum que  
 Day 31 - Revision of past questions  
- 
+Day 32 - Revision of previous questions 
 
 
 
