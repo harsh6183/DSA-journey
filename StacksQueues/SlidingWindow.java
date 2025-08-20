@@ -16,6 +16,7 @@ public class SlidingWindow {
         int res[]=new int [n-k-1];
         if(n==0){
             int k = 0;
+            int f = n-1;
             return res;
         }
         return(nums);
