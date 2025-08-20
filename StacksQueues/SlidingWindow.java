@@ -15,6 +15,7 @@ public class SlidingWindow {
         int n = nums.length;
         int res[]=new int [n-k-1];
         if(n==0){
+            int k = 0;
             return res;
         }
         return(nums);
