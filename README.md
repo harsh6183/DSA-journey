@@ -41,9 +41,10 @@ Day 29 - Stack and Que que
 Day 30 - Sliding Window Maximum que  
 Day 31 - Revision of past questions  
 Day 32 - Revision of previous questions 
-2 weeks break 
+2 weeks break   
+57 problems solved  
 
-Day 33 - 
+Day 33 - Starting with LinkedList 
 
 
   
