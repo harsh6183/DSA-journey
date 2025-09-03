@@ -15,6 +15,7 @@ public static void disArr(int []arr , int index){
     if (index==arr.length) {
         return; 
     }
+    
 
     System.out.println(arr[index]);
     disArr(arr, index+1);

@@ -18,10 +18,10 @@ public class ReverseArray {
     }
 
     public static void display(int[] arr) {
-        StringBuilder sb = new StringBuilder();
+        StringBuilder sb = new StringBuilder("Answer=> ");
 
         for (int val : arr) {
-            sb.append(val + " ");
+            sb.append(val + " ");    //append use for adding
         }
         System.out.println(sb);
     }
