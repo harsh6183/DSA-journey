@@ -44,7 +44,9 @@ Day 32 - Revision of previous questions
 2 weeks break   
 57 problems solved  
 
-Day 33 - Starting with LinkedList 
+Day 33 - Revise the previous problems   
+Day 34 - Started with LinkedList  
+
 
 
   

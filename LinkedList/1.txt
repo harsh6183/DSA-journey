@@ -1,0 +1,7 @@
+
+Following operation is done in the LinkedList:
+1 Insertion 
+2 Deletion 
+3 Adding nodes
+4 Updating the nodes 
+5 Linear search through out the nodes
