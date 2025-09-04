@@ -6,32 +6,33 @@
 
 public class ArrayCompression {
     public int compress(char[] chars) {
-       if(chars.length==0) return 0;
+        if (chars.length == 0)
+            return 0;
 
-       StringBuilder s= new StringBuilder();
-       s.append(chars[0]);
-        int count =1;
+        StringBuilder s = new StringBuilder();
+        s.append(chars[0]);
+        int count = 1;
 
-        for(int i=1;i<chars.length;i++){
+        for (int i = 1; i < chars.length; i++) {
             char current = chars[i];
-            char previous = chars[i-1];
+            char previous = chars[i - 1];
 
-            if(current == previous){
-                count ++;
-            }else{
-                if(count>1){
+            if (current == previous) {
+                count++;
+            } else {
+                if (count > 1) {
                     s.append(count);
                 }
                 s.append(current);
-                count =1;
+                count = 1;
             }
         }
-        if(count>1){
-                    s.append(count);
-                    count =1;
-                }
-                   for (int i = 0; i < s.length(); i++) {
-            chars[i] = s.charAt(i);    // Copy compressed string back to original char array
+        if (count > 1) {
+            s.append(count);
+            count = 1;
+        }
+        for (int i = 0; i < s.length(); i++) {
+            chars[i] = s.charAt(i); // Copy compressed string back to original char array
         }
         return s.length();
     }
