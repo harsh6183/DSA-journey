@@ -47,6 +47,8 @@ Day 32 - Revision of previous questions
 Day 33 - Revise the previous problems   
 Day 34 - Started with LinkedList  
 Day 35 - Doubly LinkedList  
+Day 36 - Solved 2 leetcode problems  
+Day 37 - Solved 2 leetcode problems
 
 
 
