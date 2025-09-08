@@ -1,5 +1,5 @@
 //Leetcode Hard 25th problem 
-//Reverse the LinkedList node by Kth number grps
+//Reverse the LinkedList nodes by Kth grps
 
 public class ReverseNode {
     /**
