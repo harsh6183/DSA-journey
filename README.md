@@ -51,6 +51,8 @@ Day 36 - Solved 2 leetcode problems
 Day 37 - Solved 2 leetcode problems  
 Day 38 - solved 2 leetcode problems  
 Day 39 - solved 3 leetcode problem on LL  
+Day 40 - solved 3 problems on LL  
+
 
 
 
