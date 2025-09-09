@@ -42,14 +42,14 @@ Day 30 - Sliding Window Maximum que
 Day 31 - Revision of past questions  
 Day 32 - Revision of previous questions 
 2 weeks break   
-57 problems solved  
+58 problems solved  
 
 Day 33 - Revise the previous problems   
 Day 34 - Started with LinkedList  
 Day 35 - Doubly LinkedList  
 Day 36 - Solved 2 leetcode problems  
 Day 37 - Solved 2 leetcode problems  
-Day 38 - solved leetcode problems  
+Day 38 - solved 2 leetcode problems  
 Day 39 - solved 3 leetcode problem on LL  
 
 
