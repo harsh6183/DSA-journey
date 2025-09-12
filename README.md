@@ -54,6 +54,7 @@ Day 39 - solved 3 leetcode problem on LL
 Day 40 - solved 3 problems on LL    
 
 Day 41 - starting with Binary search  
+Day 42 - Solved BS problems  
 
 
 
