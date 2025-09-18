@@ -64,7 +64,10 @@ Day 44 - Leetcode 1 problem on BS
 >>>>>>> a7fb9c142bcb38840c4c3ecf4238330d5af5b8c7
 Day 45 - Leetcode 1 problem on BS  
 Day 46 - Bs problems solved  
-Day 47 -
+
+Slinding Window and Two pointer Approach  
+Day 47 - Slinding window Algorithm problem  
+
 
 
 
