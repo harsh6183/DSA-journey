@@ -56,12 +56,8 @@ Day 40 - solved 3 problems on LL
 Day 41 - starting with Binary search  
 Day 42 - Solved BS problems  
 Day 43 - Leetcode problem on BS  
-<<<<<<< HEAD
 Day 44 - leetcode problems on BS  
-
-=======
-Day 44 - Leetcode 1 problem on BS
->>>>>>> a7fb9c142bcb38840c4c3ecf4238330d5af5b8c7
+Day 44 - Leetcode 1 problem on BS  
 Day 45 - Leetcode 1 problem on BS  
 Day 46 - Bs problems solved  
 
