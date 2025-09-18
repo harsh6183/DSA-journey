@@ -65,8 +65,8 @@ Day 44 - Leetcode 1 problem on BS
 Day 45 - Leetcode 1 problem on BS  
 Day 46 - Bs problems solved  
 
-Slinding Window and Two pointer Approach  
-Day 47 - Slinding window Algorithm problem  
+Sliding Window and Two pointer Approach  
+Day 47 - Sliding window Algorithm problem  
 
 
 
