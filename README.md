@@ -63,7 +63,12 @@ Day 46 - Bs problems solved
 
 Sliding Window and Two pointer Approach  
 Day 47 - Sliding window Algorithm problem  
-Day 48 - Slinding window and Two pointers problems
+Day 48 - Slinding window and Two pointers problems  
+Day 49 -  Two pointers problems  
+
+Starting Tree series  
+Day 50 - Trees basics and basic problems 
+
 
 
 
