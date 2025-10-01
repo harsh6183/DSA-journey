@@ -15,7 +15,6 @@ public class Basic {
         if (n ==0){
             return;
         }
-
         printIncreasing(n-1);
         System.out.println(name);
     }

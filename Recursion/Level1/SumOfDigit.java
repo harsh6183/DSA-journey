@@ -6,7 +6,7 @@ public class SumOfDigit{
       public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
         int n = scn.nextInt();
-        int ans = sum( n);
+        int ans = sum(n);
         System.out.println(ans);
 
     }
@@ -15,6 +15,6 @@ public class SumOfDigit{
         if (n == 0){
             return 0;
         }
-        return (n%10) + sum(n/10);
+        return (n) + sum(n-1);
     }
 }
