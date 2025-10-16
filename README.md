@@ -84,6 +84,8 @@ BREAK FOR 10 days
 10 Oct  
 Day 56 - Leetcode easy medium level Que solve  
 Day 57 - Leetcode easy medium level Que solve  
+Day 58 - Leetcode mixed problems solved  
+Day 59 - Leetcode mixed problems solved  
 
 
 
