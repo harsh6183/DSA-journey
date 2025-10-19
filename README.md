@@ -86,6 +86,8 @@ Day 56 - Leetcode easy medium level Que solve
 Day 57 - Leetcode easy medium level Que solve  
 Day 58 - Leetcode mixed problems solved  
 Day 59 - Leetcode mixed problems solved  
+Day 60 - Leetcode mixed problems  
+Day 61 - Leetcode LinkedList problems  
 
 
 
