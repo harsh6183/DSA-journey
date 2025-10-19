@@ -88,6 +88,7 @@ Day 58 - Leetcode mixed problems solved
 Day 59 - Leetcode mixed problems solved  
 Day 60 - Leetcode mixed problems  
 Day 61 - Leetcode LinkedList problems  
+Day 62 - Leetcode Easy medium problems  
 
 
 
