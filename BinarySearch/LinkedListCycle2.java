@@ -24,8 +24,8 @@ public class Solution {
             if(fast==slow){
                 slow = head;
                 while(slow!=fast){
-                    slow = head.next;
-                    fast= head.next;
+                    slow = slow.next;
+                    fast= fast.next;
                 } 
                 return slow;
             }
