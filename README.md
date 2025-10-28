@@ -95,6 +95,9 @@ Day 65 - Leetcode Problems on BT and LL
 Day 66 - Leetcode problems on LL  
 Day 67 - Leetcode east questions  
 Day 68 - Leetcode question on Array and Twopointer  
+Day 69 - 1 leetcode easy problem on string merging  
+Day 70 - Leetcode problem easy to medium level  
+
 
 
 
