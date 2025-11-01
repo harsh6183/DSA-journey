@@ -97,6 +97,7 @@ Day 67 - Leetcode east questions
 Day 68 - Leetcode question on Array and Twopointer  
 Day 69 - 1 leetcode easy problem on string merging  
 Day 70 - Leetcode problem easy to medium level  
+Day 71 - Leetocode string based problems  
 
 
 
