@@ -101,7 +101,9 @@ Day 71 - Leetocode string based problems
 
 1st Nov  
 Day 72 - Leetcode questions on Sliding window  
-Day 73 - Leetcode problem on Sliding Window(76)
+Day 73 - Leetcode problem on Sliding Window(76)  
+Day 74 - Leetcode daily challenge problem solved  
+
 
 
 
